@@ -9,3 +9,4 @@ f) HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_0);
 
 # KOMENTAR
 
+Program deluje tako, da izvaja ADC pretvorbe sprožene s časovnimi prekinitvami (interupt). Narediti mi ga je uspelo brez večjih napak. Pomagal sem si tudi z video tutoriali.
